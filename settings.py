@@ -1,0 +1,3 @@
+SUBSONIC_URL = os.environ.get("SUBSONIC_URL")
+SUBSONIC_USER = os.environ.get("SUBSONIC_USER")
+SUBSONIC_PASSWORD = os.environ.get("SUBSONIC_PASSWORD")
